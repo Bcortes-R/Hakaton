@@ -11,4 +11,4 @@ updates:
    schedule:
      interval: weekly
       nombre: Revisión de dependencia
-       usos: acciones/dependency-review-action@v4.3.4
+      acciones/dependency-review-action@v4.3.4
