@@ -10,5 +10,5 @@ updates:
    directory: "/"
    schedule:
      interval: weekly
-      nombre: Revisión de dependencia
+      Revisión de dependencia
       acciones/dependency-review-action@v4.3.4
